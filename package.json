@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Skills Gap Analyzer module for Career OS",
   "scripts": {
+    "prepare": "npm rebuild vite",
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
